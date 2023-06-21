@@ -1,5 +1,5 @@
 
-![logo](https://github.com/GSK-10/gsk-10/blob/main/github-header-image.png)
+![logo](https://github.com/GSK-10/gsk-10/blob/main/github-header-image-200.png)
 
 <h1 align="center">Hi 👋, I'm G Shiva Kumar Reddy</h1>
 <h3 align="center">Student | Programmer</h3>
