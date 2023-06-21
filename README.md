@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shivakumargaddam19@gmail.com**
 
-- ⚡ Fun fact **We code better after crying & trying 👨🏻‍💻**
+- ⚡ Fun fact ***We code better after crying sorry I meant trying*** 👨🏻‍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
