@@ -46,6 +46,31 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3 align="left">Basic Stats: </h3>
-<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsk-10&show_icons=true&locale=en&layout=compact" alt="gsk-10" /></p>
-<p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gsk-10&" alt="gsk-10" /></p>
+
+<p><img align="left" width="300" 
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=gsk-10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gsk-10" /></p>
+     
+<p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gsk-10&theme=algolia" alt="gsk-10" /></p>
+
+
+<!-- THEMES
+    transparent
+    tokyonight **
+    synthwave
+    dracula
+    prussian
+    monokai
+    vue-dark
+    nightowl
+    algolia ****
+    material-palenight
+    omni
+    react
+    github_dark
+    github_dark_dimmed
+    holi
+--> 
+
+
+
 
