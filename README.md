@@ -14,6 +14,7 @@
 
 - ⚡ Fun fact ***We code better after crying sorry I meant trying*** 👨🏻‍💻
 
+
 <h3 align="left">Profiles & Platforms: </h3>
 <p align="left">
 <!-- <a href="https://www.codechef.com/users/shiva_kumar_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiva_kumar_01" height="30" width="40" /></a> -->
