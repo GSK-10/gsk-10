@@ -54,7 +54,7 @@
      
 <!-- <p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gsk-10&theme=algolia" alt="gsk-10" /></p> -->
 
-<p><img align="right" width="350" height = "180" src="https://github-readme-streak-stats-two-zeta.vercel.app?user=GSK-10&theme=algolia" alt="GSK-10" /></p>
+<p><img align="right" width="380" height = "180" src="https://github-readme-streak-stats-two-zeta.vercel.app?user=GSK-10&theme=algolia" alt="GSK-10" /></p>
 
 
 
