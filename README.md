@@ -1,81 +1,117 @@
-
-![logo](https://github.com/GSK-10/gsk-10/blob/main/github-header-image-200.png)
-
-<h1 align="center">Hi 👋, I'm G Shiva Kumar Reddy</h1>
-<h3 align="center">Student | Programmer</h3>
-
-<!--
-<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
--->
-<img align="right" alt="coding" width="370" src="https://github.com/GSK-10/gsk-10/blob/main/programmer_2.jpg">
-<br>
-
-- 📫 How to reach me **shivakumargaddam19@gmail.com**
-
-- ⚡ Fun fact ***We code better after crying sorry I meant trying*** 👨🏻‍💻
-
-
-<h3 align="left">Profiles & Platforms: </h3>
-<p align="left">
-<!-- <a href="https://www.codechef.com/users/shiva_kumar_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiva_kumar_01" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/shiva_kumar_01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiva_kumar_01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shiva_kumar_01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiva_kumar_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivakumar19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivakumar19" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/profile-banner.png" alt="GSK — Software Engineer. Shiva Kumar Reddy Gaddam. Distributed Systems, Backend, Cloud-Native, Automation; Gold Medalist, games, music, anime." width="100%">
 </p>
 
-<h3 align="left">Skills:</h3>
-<h5 align="left"> Languages: </h5>
+<!-- ALTERNATE BANNER: Uncomment this block and comment out the PNG banner above to switch.
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Shiva Kumar Reddy Gaddam — backend, platform, and automation engineer" width="100%">
+</p>
+-->
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+  <a href="https://shivagaddam.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-292A30?style=flat-square"></a>
+  &nbsp;
+  <a href="https://shivagaddam.dev/resume/shiva-kumar-reddy-gaddam-resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-B83243?style=flat-square"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivakumar19/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-292A30?style=flat-square"></a>
+  &nbsp;
+  <a href="mailto:shiva.kumar.reddy.gaddam19@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-292A30?style=flat-square"></a>
+</p>
 
+Software engineer focused on **backend and distributed systems**. Spent nearly two years in Oracle Communications working across service-activation workflows, automation, Linux environments, and cloud-native deployments. I also debugged failures across services, databases, messaging, and deployment tooling.
 
-<h5 align="left"> Web Technologies & Frameworks: </h5>
+## 01 / Experience
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Oracle Communications · Automation & Infrastructure**  
+*Project Intern, then full-time · January 2024 – October 2025*
 
-<h5 align="left"> Databases: </h5>
+- Automated service-activation regression workflows using LISA across web services, JMS/XML, LDAP, and dynamic routing.
+- Supported platform upgrades across **three private Kubernetes clusters** using Kubernetes, Helm, and Podman.
+- Investigated failures across Linux environments, service configuration, messaging, SSL, and Oracle DB.
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[Read the engineering case studies →](https://shivagaddam.dev/#work)
 
-<h3 align="left">Basic Stats: </h3>
+## 02 / Projects
 
-<p><img align="left" width="300" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=gsk-10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gsk-10" /></p>
-     
-<!-- <p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gsk-10&theme=algolia" alt="gsk-10" /></p> -->
+| Project | What to explore |
+| --- | --- |
+| [Professional Networking Platform](https://shivagaddam.dev/#projects) | Active backend learning project using Spring Boot services, JWT, Kafka, Neo4j, and PostgreSQL. |
+| [Speaker Diarization System](https://github.com/GSK-10/speaker-diarization-system) | Python and Flask pipeline for multi-speaker diarization and timestamped transcription. |
+| [Engineering portfolio](https://github.com/GSK-10/shiva-gaddam-portfolio) | The site implementation: Next.js, TypeScript, accessible interactions, and work case studies. |
 
-<p><img align="right" width="380" height = "180" src="https://github-readme-streak-stats-two-zeta.vercel.app?user=GSK-10&theme=algolia" alt="GSK-10" /></p>
+## 03 / Technical Skills
 
+### Top 10 Skills:
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py&amp;theme=dark&amp;perline=3" alt="C++, Java, Python" height="48" />
+  <img src="assets/sql-skill.svg" alt="SQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&amp;theme=dark&amp;perline=3" alt="Linux, Docker, Kubernetes" height="48" />
+  <img src="assets/rest-api-skill.svg" alt="REST APIs" height="48" />
+  <img src="https://skillicons.dev/icons?i=spring,aws&amp;theme=dark&amp;perline=2" alt="Spring Boot, AWS" height="48" />
+</p>
 
-<!-- THEMES
-    transparent
-    tokyonight **
-    synthwave
-    dracula
-    prussian
-    monokai
-    vue-dark
-    nightowl
-    algolia ****
-    material-palenight
-    omni
-    react
-    github_dark
-    github_dark_dimmed
-    holi
---> 
+**C++ · Java · Python · SQL · Linux · Docker · Kubernetes · REST APIs · Spring Boot · AWS**
 
+### Complete Skills:
 
+**Languages:** C/C++ · Java · Python · JavaScript · SQL · Bash/Shell  
+**Frameworks & APIs:** Spring Boot · Spring Data JPA · REST APIs · Flask · Node.js · React  
+**Databases & Messaging:** Oracle DB · MySQL · PostgreSQL · Neo4j · Kafka · JMS  
+**Cloud & Infrastructure:** AWS · GCP · OCI · Linux · Kubernetes · Docker · Podman · Helm  
+**Developer Tools:** Git · GitLab · IntelliJ IDEA · Postman · LISA · Cline
 
+<!-- ALTERNATE SKILLS VIEW: Comment out the Complete Skills block above, then remove this block's opening and closing comment markers to show Top 10 plus illustrated categories.
 
+### Top 10 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py&amp;theme=dark&amp;perline=3" alt="C++, Java, Python" height="48" />
+  <img src="assets/sql-skill.svg" alt="SQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&amp;theme=dark&amp;perline=3" alt="Linux, Docker, Kubernetes" height="48" />
+  <img src="assets/rest-api-skill.svg" alt="REST APIs" height="48" />
+  <img src="https://skillicons.dev/icons?i=spring,aws&amp;theme=dark&amp;perline=2" alt="Spring Boot, AWS" height="48" />
+</p>
+
+**C++ · Java · Python · SQL · Linux · Docker · Kubernetes · REST APIs · Spring Boot · AWS**
+
+### Languages
+<p><img src="https://skillicons.dev/icons?i=cpp,java,py,js,bash&amp;theme=dark&amp;perline=5" alt="C++, Java, Python, JavaScript, and Bash" /></p>
+C/C++ · Java · Python · JavaScript · SQL · Bash/Shell
+
+### Frameworks & APIs
+<p><img src="https://skillicons.dev/icons?i=spring,flask,nodejs,react&amp;theme=dark&amp;perline=4" alt="Spring Boot, Flask, Node.js, and React" /></p>
+Spring Boot · Spring Data JPA · REST APIs · Flask · Node.js · React
+
+### Databases & Messaging
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,kafka&amp;theme=dark&amp;perline=3" alt="MySQL, PostgreSQL, and Kafka" /></p>
+Oracle DB · MySQL · PostgreSQL · Neo4j · Kafka · JMS
+
+### Cloud & Infrastructure
+<p><img src="https://skillicons.dev/icons?i=aws,gcp,linux,kubernetes,docker&amp;theme=dark&amp;perline=5" alt="AWS, GCP, Linux, Kubernetes, and Docker" /></p>
+AWS · GCP · OCI · Linux · Kubernetes · Docker · Podman · Helm
+
+### Developer Tools
+<p><img src="https://skillicons.dev/icons?i=git,gitlab,idea,postman&amp;theme=dark&amp;perline=4" alt="Git, GitLab, IntelliJ IDEA, and Postman" /></p>
+Git · GitLab · IntelliJ IDEA · Postman · LISA · Cline
+
+-->
+
+## 04 / Current Focus
+
+- Building a **Java and Spring Boot** professional networking platform with JWT-protected routes, service discovery, Kafka events, Neo4j, and PostgreSQL. This is an active learning project.
+- Deepening my understanding of **distributed systems** through service boundaries, asynchronous flows, failure handling, and practical debugging.
+- Developing **AWS and GCP** knowledge while drawing on hands-on Linux and Kubernetes platform work at Oracle.
+
+## 05 / Education
+
+**B.Tech in Computer Science & Engineering** · VNR VJIET, Hyderabad · 2020–2024  
+**CGPA:** 9.52/10
+
+## 06 / Achievements & Research
+
+- **Gold Medalist**, Computer Science & Engineering, VNR VJIET (2024).
+- **LeetCode Knight**, peak rating 2036 · **CodeChef 3 Star**.
+- Co-authored [research on speaker diarization and audio processing](https://www.internationaljournalssrg.org/IJEEE/paper-details?Id=1043), published in *SSRG International Journal of Electrical and Electronics Engineering* (2025). [![DOI: published paper](https://img.shields.io/badge/DOI-Published-E95761?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.14445/23488379/IJEEE-V12I4P124)
+
+Open to **backend, platform, and infrastructure engineering** roles. Oracle work is described through [sanitized case studies](https://shivagaddam.dev/#work); the public repositories above are personal or academic projects.
